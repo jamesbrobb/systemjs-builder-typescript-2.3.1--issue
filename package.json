@@ -1,0 +1,21 @@
+{
+  "name": "systemjs-2.0-typescript-2.4.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/angular": "1.6.28",
+    "angular": "1.6.5",
+    "systemjs": "0.20.17"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "systemjs-builder": "0.16.9",
+    "typescript": "2.4.2"
+  }
+}
